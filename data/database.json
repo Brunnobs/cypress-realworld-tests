@@ -74,6 +74,17 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "1zsXTNB4L",
+      "uuid": "5899755b-7291-4220-93ae-405116332621",
+      "firstName": "joao",
+      "lastName": "tete",
+      "username": "joaoconor",
+      "password": "$2a$10$GTIi8v4mGOUMT2TKPmz6DOgfALOk7584w0cuuts6Xu1KyX0gr9Mf6",
+      "balance": 0,
+      "createdAt": "2026-03-04T01:01:13.926Z",
+      "modifiedAt": "2026-03-04T01:01:13.926Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "3gC_-PhF6",
+      "uuid": "a88e6f30-1d4d-434e-9042-52ad307a7b6f",
+      "userId": "1zsXTNB4L",
+      "bankName": "Bank of America",
+      "accountNumber": "555334455",
+      "routingNumber": "778995555",
+      "isDeleted": false,
+      "createdAt": "2026-03-04T12:27:47.127Z",
+      "modifiedAt": "2026-03-04T12:27:47.127Z"
     }
   ],
   "transactions": [
