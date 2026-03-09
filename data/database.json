@@ -76,15 +76,37 @@
       "modifiedAt": "2024-03-07T00:07:36.510Z"
     },
     {
-      "id": "1zsXTNB4L",
-      "uuid": "5899755b-7291-4220-93ae-405116332621",
-      "firstName": "joao",
-      "lastName": "tete",
-      "username": "joaoconor",
-      "password": "$2a$10$GTIi8v4mGOUMT2TKPmz6DOgfALOk7584w0cuuts6Xu1KyX0gr9Mf6",
+      "id": "HgI4R8lwo",
+      "uuid": "68dc9694-b505-4e03-9605-d9faa73f10ee",
+      "firstName": "raul",
+      "lastName": "seixas",
+      "username": "rauzito",
+      "password": "$2a$10$bdquD4IKOv37Bt9LK0/bguQHVLJ39men1SP.tjiVdexYaF5JiKdKu",
       "balance": 0,
-      "createdAt": "2026-03-04T01:01:13.926Z",
-      "modifiedAt": "2026-03-04T01:01:13.926Z"
+      "createdAt": "2026-03-08T21:29:46.017Z",
+      "modifiedAt": "2026-03-08T21:29:46.017Z"
+    },
+    {
+      "id": "VQBgUO7Nm",
+      "uuid": "7f7191cd-c6d9-4706-bfe4-14269ada7e6d",
+      "firstName": "Raul",
+      "lastName": "Seixas",
+      "username": "rauzito",
+      "password": "$2a$10$e3/ol3aJLXrN7zy..OE0CeiA8IAAOcupXlH2O3bol0poDRWyvf7Tu",
+      "balance": 0,
+      "createdAt": "2026-03-08T22:22:45.370Z",
+      "modifiedAt": "2026-03-08T22:22:45.370Z"
+    },
+    {
+      "id": "Rn2s4D6c2",
+      "uuid": "b117958d-7d3e-414e-83c1-93a1a160b106",
+      "firstName": "Raul",
+      "lastName": "",
+      "username": "",
+      "password": "$2a$10$AKbQKX56jtrS.9zZkhtDy.I0/GK7QsWV6vNT7tGnRj1IqSoOSr38i",
+      "balance": 0,
+      "createdAt": "2026-03-08T23:34:45.186Z",
+      "modifiedAt": "2026-03-08T23:34:45.186Z"
     }
   ],
   "contacts": [
@@ -266,15 +288,15 @@
       "modifiedAt": "2024-03-07T08:44:31.174Z"
     },
     {
-      "id": "3gC_-PhF6",
-      "uuid": "a88e6f30-1d4d-434e-9042-52ad307a7b6f",
-      "userId": "1zsXTNB4L",
+      "id": "C7ieOEHA_",
+      "uuid": "36ed4da6-0616-4cd1-ac06-4ba55e82a85c",
+      "userId": "HgI4R8lwo",
       "bankName": "Bank of America",
-      "accountNumber": "555334455",
-      "routingNumber": "778995555",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
       "isDeleted": false,
-      "createdAt": "2026-03-04T12:27:47.127Z",
-      "modifiedAt": "2026-03-04T12:27:47.127Z"
+      "createdAt": "2026-03-08T21:32:47.411Z",
+      "modifiedAt": "2026-03-08T21:32:47.411Z"
     }
   ],
   "transactions": [
