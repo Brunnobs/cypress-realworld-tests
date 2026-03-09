@@ -1,3 +1,40 @@
+QA Automation Tests - Cypress RealWorld App
+
+This repository contains automated tests created with Cypress using the RealWorld App project from Cypress.io.
+
+The goal of this project is to practice end-to-end test automation and demonstrate QA automation skills.
+
+Implemented Test Scenarios
+Login Tests
+
+Login with valid credentials
+
+Login with invalid credentials
+
+Validation of required fields
+
+User Registration Tests
+
+Successful user signup
+
+Validation of required fields
+
+Form validation messages
+
+Test Files
+
+cypress/e2e/auth/login.spec.js
+cypress/e2e/auth/signUp.spec.js
+
+Technologies Used
+
+Cypress
+
+JavaScript
+
+Node.js
+
+
 <p align="center">
   <!-- We use two SVGs here so that this displays correctly
     on Github. This might not look right in other Markdown previewers. -->
