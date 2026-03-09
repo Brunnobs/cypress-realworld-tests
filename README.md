@@ -23,8 +23,8 @@ The objective of this project is to practice **End-to-End (E2E) test automation*
 ## 📁 Test Files
 
 cypress
-└── e2e
-└── auth
+└── tests
+└── demo
 ├── login.spec.js
 └── signUp.spec.js
 
